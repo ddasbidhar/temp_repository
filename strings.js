@@ -5,6 +5,7 @@
 // Single quotes
 let name = 'Jack';
 console.log(name);
+console.log(name); //Testing the branch
 
 name = "Jane";
 console.log(name);
